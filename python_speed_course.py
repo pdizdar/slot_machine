@@ -24,3 +24,5 @@ x = 9
 y = 3
 result = x + y, x - y, x / y, x ** y# exponent, 
 print(result)
+print("Nothing")
+x + y
